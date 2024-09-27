@@ -17,20 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic portfolio! I am Eric Zhizhao Li, a Ph.D. student in Public Policy at HKUST, under the guidance of Prof. Pengyu Zhu
+Welcome to my academic portfolio! I am Eric Zhizhao Li, a Ph.D. student in Public Policy at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).
 
-His research is deeply rooted in the intersection of urban policies, big data, and social sciences, with a particular focus on electric vehicle (EV) policies and travel behavior. He has been honored with the prestigious Hong Kong PhD Fellowship Scheme (HKPFS), reflecting his commitment to excellence in research. Under the guidance of Prof. Pengyu Zhu, he explores innovative policy design and governance strategies for sustainable urban development.
-
-My research interest includes neural machine translation and computer vision. 
+My research interest is deeply rooted in the intersection of urban policies, big data, and social sciences, with a particular focus on electric vehicle (EV) policies and travel behavior. 
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. in Public Policy, The Hong Kong University of Science and Technology, Hong Kong. 
 - *2021.09 - 2023.07*, Master in Public Policy, The Hong Kong University of Science and Technology, Hong Kong.
 - *2017.09 - 2021.05*, B.B.A. in Applied Economics, The Chinese University of Hong Kong, Shenzhen.
 
-# 🎖 Honors and Awards
-- *2022.08* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2017.09* Bowen Scholarship
+# 🎖 Grants and Awards
+- *2023.09* **HK$1,400,000** - Hong Kong PhD Fellowship Scheme (HKPFS), Hong Kong Research Grants Council (RGC)
+- *2023.09* **HK$40,000**  HKUST RedBird PhD Award, The Hong Kong University of Science and Technology
+- *2021.09-2023.07* **HK$40,000** Academic Excellence Scholarship for Master of Public Policy, The Hong Kong University of Science and Technology
+- *2017.09-2021.05* **RMB120,000** Bowen Scholarship, The Chinese University of Hong Kong, Shenzhen
 
 # 📝 Publications 
 
