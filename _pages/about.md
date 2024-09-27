@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic portfolio! I am Eric Zhizhao Li, a Ph.D. student in Public Policy at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).
+Welcome to my academic portfolio! I am Eric, a Ph.D. student in Public Policy at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).
 
 My research interest is deeply rooted in the intersection of urban policies, big data, and social sciences, with a particular focus on electric vehicle (EV) policies and travel behavior. I am researching how the development of China's electric vehicle industry will affect the daily travel behavior of rural and suburban residents in the future. I hope to have the opportunity to interact with scholars who share the same research interests!
 
