@@ -34,7 +34,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PPR-CEPU</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pandemic-Induced Behavioral Changes and Persistence in High-Density Urban Context: A Panel Study From Hong Kong]
