@@ -21,6 +21,11 @@ Welcome to my academic portfolio! I am Eric Zhizhao Li, a Ph.D. student in Publi
 
 My research interest is deeply rooted in the intersection of urban policies, big data, and social sciences, with a particular focus on electric vehicle (EV) policies and travel behavior. I am researching how the development of China's electric vehicle industry will affect the daily travel behavior of rural and suburban residents in the future. I hope to have the opportunity to interact with scholars who share the same research interests!
 
+# 🔥 News
+- *2024.09*: &nbsp;My Office has been relocated to Office C (Room 4336, lift 13-15, HKUST). I'd love to have a coffee chat with you all.
+- *2024.09*: &nbsp;🎉🎉 My Supervisor, Prof. Pengyu Zhu, ranks 67848 in TopResearchersList, Top 1% Listed Researchers.
+- *2024.07*: &nbsp;🎉🎉 My Supervisor, Prof. Pengyu Zhu, has been recently awarded 5.2 million HKD and conferred the esteemed title of ‘RGC Research Fellow‘, a prestigious recognition from the Hong Kong Research Grants Council (RGC) under their Research Fellow Scheme (RFS) in support of only the most outstanding scholars in Hong Kong.
+
 # 📖 Educations
 - *2023.09 - now*, **Ph.D. in Public Policy**, The Hong Kong University of Science and Technology, Hong Kong. 
 - *2021.09 - 2023.07*, **Master in Public Policy**, The Hong Kong University of Science and Technology, Hong Kong.
@@ -55,7 +60,3 @@ Pengyu Zhu, **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, Under Review
 - [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi], Submitted
 - [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Submitted
 
-# 🔥 News
-- *2024.09*: &nbsp;My Office has been relocated to Office C (Room 4336, lift 13-15, HKUST). I'd love to have a coffee chat with you all.
-- *2024.09*: &nbsp;🎉🎉 My Supervisor, Prof. Pengyu Zhu, ranks 67848 in TopResearchersList, Top 1% Listed Researchers.
-- *2024.07*: &nbsp;🎉🎉 My Supervisor, Prof. Pengyu Zhu, has been recently awarded 5.2 million HKD and conferred the esteemed title of ‘RGC Research Fellow‘, a prestigious recognition from the Hong Kong Research Grants Council (RGC) under their Research Fellow Scheme (RFS) in support of only the most outstanding scholars in Hong Kong.
