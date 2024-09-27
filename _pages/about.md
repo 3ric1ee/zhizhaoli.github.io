@@ -17,25 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhizhao Li is a Ph.D. student at The Hong Kong University of Science and Technology, specializing in Public Policy. His research is deeply rooted in the intersection of urban policies, big data, and social sciences, with a particular focus on electric vehicle (EV) policies and travel behavior. He has been honored with the prestigious Hong Kong PhD Fellowship Scheme (HKPFS), reflecting his commitment to excellence in research. Under the guidance of Prof. Pengyu Zhu, he explores innovative policy design and governance strategies for sustainable urban development.
+Welcome to my academic portfolio! I am Eric Zhizhao Li, a Ph.D. student in Public Policy at HKUST, under the guidance of Prof. Pengyu Zhu
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research is deeply rooted in the intersection of urban policies, big data, and social sciences, with a particular focus on electric vehicle (EV) policies and travel behavior. He has been honored with the prestigious Hong Kong PhD Fellowship Scheme (HKPFS), reflecting his commitment to excellence in research. Under the guidance of Prof. Pengyu Zhu, he explores innovative policy design and governance strategies for sustainable urban development.
+
+My research interest includes neural machine translation and computer vision. 
 
 # 📖 Educations
-- *2023.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09 - 2023.07*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2017.09 - 2021.05*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.09 - now*, Ph.D. in Public Policy, The Hong Kong University of Science and Technology, Hong Kong. 
+- *2021.09 - 2023.07*, Master in Public Policy, The Hong Kong University of Science and Technology, Hong Kong.
+- *2017.09 - 2021.05*, B.B.A. in Applied Economics, The Chinese University of Hong Kong, Shenzhen.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.08* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017.09* Bowen Scholarship
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248)
 
 **Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu
 
