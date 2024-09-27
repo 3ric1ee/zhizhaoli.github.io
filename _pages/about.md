@@ -27,10 +27,10 @@ My research interest is deeply rooted in the intersection of urban policies, big
 - *2017.09 - 2021.05*, B.B.A. in Applied Economics, The Chinese University of Hong Kong, Shenzhen.
 
 # 🎖 Grants and Awards
-- *2023.09* - **HK$1,400,000** - Hong Kong PhD Fellowship Scheme (HKPFS), Hong Kong Research Grants Council (RGC)
-- *2023.09* - **HK$40,000** - HKUST RedBird PhD Award, The Hong Kong University of Science and Technology
-- *2021.09-2023.07* - **HK$40,000** - Academic Excellence Scholarship for Master of Public Policy, The Hong Kong University of Science and Technology
-- *2017.09-2021.05* - **RMB120,000** - Bowen Scholarship, The Chinese University of Hong Kong, Shenzhen
+- *2023.09*  **HK$1,400,000** - Hong Kong PhD Fellowship Scheme (HKPFS), Hong Kong Research Grants Council (RGC)
+- *2023.09*  **HK$40,000** - HKUST RedBird PhD Award, The Hong Kong University of Science and Technology
+- *2021.09-2023.07*  **HK$40,000** - Academic Excellence Scholarship for Master of Public Policy, The Hong Kong University of Science and Technology
+- *2017.09-2021.05*  **RMB120,000** - Bowen Scholarship, The Chinese University of Hong Kong, Shenzhen
 
 # 📝 Publications 
 
