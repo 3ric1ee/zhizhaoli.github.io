@@ -27,28 +27,31 @@ My research interest is deeply rooted in the intersection of urban policies, big
 - *2017.09 - 2021.05*, B.B.A. in Applied Economics, The Chinese University of Hong Kong, Shenzhen.
 
 # 🎖 Grants and Awards
-- *2023.09*  Hong Kong PhD Fellowship Scheme (HKPFS), Hong Kong Research Grants Council (RGC) - HK$1,400,000
-- *2023.09*  HKUST RedBird PhD Award, The Hong Kong University of Science and Technology - HK$40,000 
-- *2021.09-2023.07*  Academic Excellence Scholarship, The Hong Kong University of Science and Technology - HK$40,000
-- *2017.09-2021.05*  Bowen Scholarship, The Chinese University of Hong Kong, Shenzhen - RMB120,000
+- *2023.09*,  Hong Kong PhD Fellowship Scheme (HKPFS), Hong Kong Research Grants Council (RGC) - HK$1,400,000
+- *2023.09*,  HKUST RedBird PhD Award, The Hong Kong University of Science and Technology - HK$40,000 
+- *2021.09-2023.07*,  Academic Excellence Scholarship, The Hong Kong University of Science and Technology - HK$40,000
+- *2017.09-2021.05*,  Bowen Scholarship, The Chinese University of Hong Kong, Shenzhen - RMB120,000
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248)
+[Pandemic-Induced Behavioral Changes and Persistence in High-Density Urban Context: A Panel Study From Hong Kong]
 
-**Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu
+Pengyu Zhu, **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, Under Review
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=woxA-sQAAAAJ&citation_for_view=woxA-sQAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://www.cepu.gov.hk/doc/en/research_report(PDF)/2021.A7.021.21C_Final%20Report_Prof%20Zhu.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
 - [Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248), **Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu, *Policy Design and Practice*
-
+- [The impact of mass gatherings on the local transmission of COVID-19 and the implications for social distancing policies: Evidence from Hong Kong](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279539), Pengyu Zhu, Xinying Tan, Mingshu Wang, Fei Guo, Shuai Shi, **Zhizhao Li**, *PLOS ONE*
+- [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow, Under Review
+- [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi], Submitted
+- [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Submitted
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 Prof. Pengyu Zhu ranks 67848 in TopResearchersList, Top 1% Listed Researchers.
+- *2024.07*: &nbsp;🎉🎉 Prof. Pengyu Zhu has been recently awarded 5.2 million HKD and conferred the esteemed title of ‘RGC Research Fellow‘, a prestigious recognition from the Hong Kong Research Grants Council (RGC) under their Research Fellow Scheme (RFS) in support of only the most outstanding scholars in Hong Kong.
