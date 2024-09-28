@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic portfolio! I am Eric, a mixologist, a chef and a Ph.D. student in Public Policy at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).My research interest is deeply rooted in the intersection of urban policies, big data, and behavioral economics, with a particular focus on **electric vehicle (EV) policies and travel behavior**. For the past two years, my primary research has been on **pandemic-induced behavioral changes and their potential stickness** in a high density urban context. I am now researching how the development of China's electric vehicle industry will affect the daily travel behavior of rural and suburban residents in the future. I hope to have the opportunity to interact with scholars who share the same research interests!
+Welcome to my academic portfolio! I am Eric, a mixologist, a chef and a Ph.D. student at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).
+
+My research interest is deeply rooted in the intersection of urban policies, big data, and behavioral economics, with a particular focus on **electric vehicle (EV) policies and travel behavior**. For the past two years, my primary research has been on **pandemic-induced behavioral changes and their potential stickness** in a high density urban context. I am now researching how the development of China's electric vehicle industry will affect the daily travel behavior of rural and suburban residents in the future. I hope to have the opportunity to interact with scholars who share the same research interests!
 
 *Quote: "**風檐展書讀，古道照顏色**（Under the eaves I open the book and read; the ancient Way lights up my face）" from 《正氣歌》（The Song of the Spirit of Righteousness），文天祥 （Wen Tian-xiang, Song Dynasty）*
 
