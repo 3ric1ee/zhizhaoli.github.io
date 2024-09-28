@@ -48,7 +48,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 
 Pengyu Zhu, **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, Under Review
 
-[**Project:2021.A7.021.21C**](https://www.cepu.gov.hk/doc/en/research_report(PDF)/2021.A7.021.21C_Final%20Report_Prof%20Zhu.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project: 2021.A7.021.21C**](https://www.cepu.gov.hk/doc/en/research_report(PDF)/2021.A7.021.21C_Final%20Report_Prof%20Zhu.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Conduct a HKPSSD- based survey on the behavioral changes in Post-Pandemic Hong Kong. Lead in the data collection and data cleansing process. Then, use data collected via the HKPSSD-based survey and structural equation modeling (SEM) to identify the causal relationships between COVID-19 risks.
 - To investigate the direct and indirect effects of COVID-19 on a range of behavioral changes and to understand the role of four major intervening variables, namely access to technology, economic circumstances, stress, and attitudes and values.
 
