@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic portfolio! I am Eric, a Ph.D. student in Public Policy at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).
+Welcome to my academic portfolio! I am Eric, a mixologist, a chef and a Ph.D. student in Public Policy at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).
 
 My research interest is deeply rooted in the intersection of urban policies, big data, and social sciences, with a particular focus on electric vehicle (EV) policies and travel behavior. I am researching how the development of China's electric vehicle industry will affect the daily travel behavior of rural and suburban residents in the future. I hope to have the opportunity to interact with scholars who share the same research interests!
+
+*Quote: "**風檐展書讀，古道照顏色**（Under the eaves I open the book and read; the ancient Way lights up my face）" from 《正氣歌》（The Song of the Spirit of Righteousness），文天祥*
 
 # 🔥 News
 - *2024.09*: &nbsp;My Office has been relocated to Office C (Room 4336, lift 13-15, HKUST). I'd love to have a coffee chat with you all.
