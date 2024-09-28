@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Li, Zhizhao  李志釗 zligx@connect.ust.hk"
+  name             : "Li, Zhizhao  李志釗"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Hong Kong University of Science and Technology"
+  bio              : "The Hong Kong University of Science and Technology zligx@connect.ust.hk"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
