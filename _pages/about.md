@@ -60,6 +60,6 @@ Pengyu Zhu, **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, Under Review
 - [Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248), **Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu, *Policy Design and Practice*
 - [The impact of mass gatherings on the local transmission of COVID-19 and the implications for social distancing policies: Evidence from Hong Kong](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279539), Pengyu Zhu, Xinying Tan, Mingshu Wang, Fei Guo, Shuai Shi, **Zhizhao Li**, *PLOS ONE*
 - [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow, Under Review
-- [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Praveen Maghelal, **Zhizhao Li**, Pengyu Zhu, Under Review
-- [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi], Under Review
+- [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi], Praveen Maghelal, **Zhizhao Li**, Pengyu Zhu, Under Review
+- [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Under Review
 
