@@ -25,7 +25,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 *Quote: "**風檐展書讀，古道照顏色**（Under the eaves I open the book and read; the ancient Way lights up my face）" from 《正氣歌》（The Song of the Spirit of Righteousness），文天祥 （Wen Tian-xiang, Song Dynasty）*
 
 # 🔥 News
-- *2024.09*: &nbsp;My Office has been relocated to Office C (Room 4336, lift 13-15, HKUST). I'd love to have a coffee chat with you all.
+- *2024.09*: &nbsp;My Office has been relocated to Office C (Room 4336, lift 13-15, HKUST). Welcome~
 - *2024.09*: &nbsp;🎉🎉 My Supervisor, Prof. Pengyu Zhu, ranks 67848 in TopResearchersList, Top 1% Listed Researchers.
 - *2024.07*: &nbsp;🎉🎉 My Supervisor, Prof. Pengyu Zhu, has been recently awarded 5.2 million HKD and conferred the esteemed title of ‘RGC Research Fellow‘, a prestigious recognition from the Hong Kong Research Grants Council (RGC) under their Research Fellow Scheme (RFS) in support of only the most outstanding scholars in Hong Kong.
 
@@ -58,8 +58,7 @@ Pengyu Zhu, **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, *Cities* (Under Review)
 </div>
 
 - [Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248), **Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu, *Policy Design and Practice*
-- [The impact of mass gatherings on the local transmission of COVID-19 and the implications for social distancing policies: Evidence from Hong Kong](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279539), Pengyu Zhu, Xinying Tan, Mingshu Wang, Fei Guo, Shuai Shi, **Zhizhao Li**, *PLOS ONE*
-- [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow, Under Review
 - [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi], Praveen Maghelal, **Zhizhao Li**, Pengyu Zhu, Under Review
-- [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Under Review
+- [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Weiye Zang, Yuqing Guo, **Zhizhao Li**, Masaru Yarime, Xun Wu, *Regulation & Governance*, Under Review
+- [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow, Under Review
 
