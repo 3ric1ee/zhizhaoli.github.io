@@ -20,7 +20,7 @@ redirect_from:
 Welcome to my academic portfolio! I am Eric, **a** **mixologist**, **a** **chef**, **and a** **Ph.D. student** at HKUST, under the guidance of [Prof. Pengyu Zhu](https://pengyuzhu.com/).
 
 # 🎓 Research Interests
-My research interest is deeply rooted in the intersection of urban policies, big data, and behavioral economics, with a particular focus on **electric vehicle** (EV) policies and **travel behavior**. For the past two years, my primary research has been on **pandemic-induced behavioral changes** and their **potential stickness** in a high density urban context. I am now researching how the development of China's electric vehicle industry will affect the daily travel behavior of rural and suburban residents in the future. I hope to have the opportunity to interact with scholars who share the same research interests!
+My research interest is deeply rooted in the intersection of urban policies, big data, and behavioral economics, with a particular focus on **electric vehicle** (EV) policies and **travel behavior**. In addition, I am also interested in the electric vehicle **overcapacity** issue. For the past two years, my primary research has been on **pandemic-induced behavioral changes** and their **potential stickness** in a high density urban context. I am now researching how the development of China's electric vehicle industry will affect the daily travel behavior of rural and suburban residents in the future. I hope to have the opportunity to interact with scholars who share the same research interests!
 
 *Quote: "**風檐展書讀，古道照顏色**（Under the eaves I open the book and read; the ancient Way lights up my face）" from 《正氣歌》（The Song of the Spirit of Righteousness），文天祥 （Wen Tian-xiang, Song Dynasty）*
 
@@ -58,7 +58,7 @@ Pengyu Zhu, **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, *Cities* (Under Review)
 </div>
 
 - [Policy designs for adaptive governance of disruptive technologies: The case of facial recognition technology (FRT) in China](https://www.tandfonline.com/doi/full/10.1080/25741292.2022.2162248), **Zhizhao Li**, Yuqing Guo, Masaru Yarime, Xun Wu, *Policy Design and Practice*
-- [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi], Praveen Maghelal, **Zhizhao Li**, Pengyu Zhu, Under Review
+- [Analyzing Determinants of Traffic Violations in a Multi-Cultural Setting: Case of Abu Dhabi], Praveen Maghelal, **Zhizhao Li**, Pengyu Zhu, *Journal of Urban Management*, Under Revision
 - [Unified, Segmented, and Supranational: Contrasting Approaches to Governing Facial Recognition Technology ], Weiye Zang, Yuqing Guo, **Zhizhao Li**, Masaru Yarime, Xun Wu, *Regulation & Governance*, Under Review
 - [Exploring the Persistence of Pandemic-Induced Travel Behaviour Changes in Hong Kong: A Structural Equation Modelling Approach], Pengyu Zhu, Yuqing Guo, **Zhizhao Li**, Jeffrey Chow, Under Review
 
