@@ -25,6 +25,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 *Quote: "**風檐展書讀，古道照顏色**（Under the eaves I open the book and read; the ancient Way lights up my face）" from 《正氣歌》（The Song of the Spirit of Righteousness），文天祥 （Wen Tian-xiang, Song Dynasty）*
 
 # 🔥 News
+- *2025.01*: &nbsp;One of my most respected professors, Donald LOW, just published his new book "The Price of Zero", an anthology of essays on the Chinese economy examines the causes and economic consequences of the zero-Covid policy that China pursued during the pandemic. [Link to know more](https://thepriceofzero.org/) 
 - *2024.09*: &nbsp;My Office has been relocated to Office C (Room 4336, lift 13-15, HKUST). Welcome~
 - *2024.09*: &nbsp;🎉🎉 My Supervisor, Prof. Pengyu Zhu, ranks 67848 in TopResearchersList, Top 1% Listed Researchers.
 - *2024.07*: &nbsp;🎉🎉 My Supervisor, Prof. Pengyu Zhu, has been recently awarded 5.2 million HKD and conferred the esteemed title of ‘RGC Research Fellow‘, a prestigious recognition from the Hong Kong Research Grants Council (RGC) under their Research Fellow Scheme (RFS) in support of only the most outstanding scholars in Hong Kong.
