@@ -49,7 +49,7 @@ My research interest is deeply rooted in the intersection of urban policies, big
 
 [Pandemic-Induced Behavioral Changes and Persistence in High-Density Urban Context: A Panel Study From Hong Kong]
 
-Pengyu Zhu, **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, *Cities* (Under Review)
+Pengyu Zhu, **Zhizhao Li**, Yuqing Guo, Jeffrey Chow, *Cities* (Under Revision)
 
 [**Project: 2021.A7.021.21C**](https://www.cepu.gov.hk/doc/en/research_report(PDF)/2021.A7.021.21C_Final%20Report_Prof%20Zhu.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Conduct a HKPSSD- based survey on the behavioral changes in Post-Pandemic Hong Kong. Lead in the data collection and data cleansing process. Then, use data collected via the HKPSSD-based survey and structural equation modeling (SEM) to identify the causal relationships between COVID-19 risks.
